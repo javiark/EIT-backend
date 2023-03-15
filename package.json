@@ -1,0 +1,19 @@
+{
+  "name": "04-node-js---express---mongoose---copia",
+  "version": "0.0.1",
+  "description": "Servidor Ecommerce en NodeJS, Express, Mongoose, JWT, con CRUD en Users, Products, Ordenes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javiark/EIT-backend.git"
+  },
+  "author": "Javier778",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javiark/EIT-backend/issues"
+  },
+  "homepage": "https://github.com/javiark/EIT-backend#readme"
+}
