@@ -1,7 +1,8 @@
 const app = require('./app');
 
 const port = 4000;
-const dbURL = `mongodb+srv://neotech:alfab3ta@ecommerce.2qy88.mongodb.net/eit-61543?retryWrites=true&w=majority`;
+
+const dbURL = `mongodb+srv://javier778:javiark778@javiark.qbwamon.mongodb.net/eit-61543?retryWrites=true&w=majority`;
 const mongoose = require('mongoose');
 
 mongoose.connect(dbURL)
@@ -15,7 +16,7 @@ mongoose.connect(dbURL)
             })
             .catch((error) => {
                 console.log(error)
-})       
+})  
         
 
 //hola
